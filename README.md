@@ -6,13 +6,15 @@ This project we were given a JavaScript file with an array of dictionaries that 
 
 ## Results of Project
 
-![webpage](webpage_image_address)
+![webpage](https://github.com/MXV0921/UFOs/blob/main/static/images/html_page.png)
+
+![webpage_bottom](https://github.com/MXV0921/UFOs/blob/main/static/images/filter_and_table.png)
 
 This is our final webpage, it contains a working javascript table that has multiple filters such as date, state, and country.  Once published our page will be a user friendly site to sort through all of this information.
 
 We created the table using the following code:
 
-![create_table_image](githubaddress_create_table)
+![create_table_image](https://github.com/MXV0921/UFOs/blob/main/static/images/create_table.png)
 
 By utilizing a module called 'D3' we are able to write code in our app.js file that builds visual tables on our html page.  The following block of code references the line in the html where the table will be placed("td" abbreviates 'table data':
 
@@ -26,11 +28,11 @@ By utilizing a module called 'D3' we are able to write code in our app.js file t
 
 We used our app.js file to create filters in the following code block:
 
-![filter_table_image](github_filter_table)
+![filter_table_image](https://github.com/MXV0921/UFOs/blob/main/static/images/update_filters.png)
 
 When a user enters a filter in any of these boxes, the table will accordingly filter on the users request.  Here is an example of the table being filtered to show only sightings that took place in ca(California):
 
-![filter_table_california](github_california_filter)
+![filter_table_california](https://github.com/MXV0921/UFOs/blob/main/static/images/california_filter.png)
 
 
 ## Summary of Project
